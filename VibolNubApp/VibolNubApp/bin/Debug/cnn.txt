@@ -1,0 +1,1 @@
+server=localhost; database=vibolcsharp; user id=sa; password=HelloWorld@2003
